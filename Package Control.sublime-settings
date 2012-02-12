@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": 1329076603,
+	"installed_packages":
+	[
+		"Additional PHP Snippets",
+		"ApacheConf.tmLanguage",
+		"Drupal Snippets",
+		"FileDiffs",
+		"Gist",
+		"Git",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"SFTP",
+		"SideBarGit"
+	]
+}
