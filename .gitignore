@@ -1,3 +1,4 @@
 *.cache
 *.pyc
 Gist.sublime-settings
+sftp_servers/

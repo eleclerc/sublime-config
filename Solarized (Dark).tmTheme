@@ -1981,8 +1981,10 @@
 		   <dict>
 		           <key>background</key>
 		           <string>#073642</string>
+ 		           <key>fontStyle</key>
+		           <string>bold</string>
 		           <key>foreground</key>
-		           <string>#586e75</string>
+		           <string>#268bd2</string>
 		   </dict>
 		</dict>
 
