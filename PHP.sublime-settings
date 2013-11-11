@@ -4,5 +4,6 @@
 		"module",
 		"install",
 		"inc"
-	]
+	],
+    "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
