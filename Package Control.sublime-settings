@@ -7,10 +7,10 @@
 		"FileDiffs",
 		"Gist",
 		"Git",
+		"JSLint",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
-		"SFTP",
 		"SideBarGit"
 	]
 }
