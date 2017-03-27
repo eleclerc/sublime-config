@@ -1,6 +1,6 @@
-My personal settings files for Sublime Text
+# My personal settings files for Sublime Text 3
 
-http://sublimetext.com
+https://www.sublimetext.com/
 
 Solarized theme modified to properly support Markdown syntax highlighting
 
